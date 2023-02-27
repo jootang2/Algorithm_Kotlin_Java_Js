@@ -1,1 +1,1 @@
-C:\Users\joohw\IdeaProjects\kotlin_Algo\build\classes\kotlin\main\MainKt.class
+C:\Users\joohw\IdeaProjects\kotlin_Algo\build\classes\kotlin\main\BOJ11382Kt.class

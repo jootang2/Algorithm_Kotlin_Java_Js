@@ -1,10 +1,10 @@
 # [level 2] 피보나치 수 - 12945 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12945) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12945?language=kotlin) 
 
 ### 성능 요약
 
-메모리: 36.3 MB, 시간: 1.63 ms
+메모리: 60.8 MB, 시간: 1.66 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2023년 12월 4일 1:28:31
+2023년 12월 4일 10:33:28
 
 ### 문제 설명
 
